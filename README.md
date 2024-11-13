@@ -1,7 +1,7 @@
 # STL-Model-Calculator
 Used to calculate the STL model: dimensions, volume, surface area, triangular quantity, mass etc.
 
-We are still debugging, and the final program will be released soon. （About a week）
+I don't have enough time to finish the document for a while, I will finish it later.
 
 Language: Python
 
